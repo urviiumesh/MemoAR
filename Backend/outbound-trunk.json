@@ -1,0 +1,11 @@
+{
+    "trunk": {
+        "name": "Pranav Trunk",
+        "address": "pranaboi.pstn.twilio.com",
+        "numbers": [
+            "+18144822566"
+        ],
+        "auth_username": "Pranaboi",
+        "auth_password": "Pra^av!5L30@"
+    }
+}
